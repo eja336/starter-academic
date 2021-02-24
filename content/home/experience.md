@@ -38,8 +38,7 @@ experience:
     location: John Jay College of Criminal Justice
     date_start: '2019-06-01'
     date_end: ''
-    description: `|2-`
-    Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. Click here to learn more. 
+    description: Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. Click here to learn more. 
         
  
     
