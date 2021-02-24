@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Lab Affiliations
-subtitle:(past and current)
+subtitle: (past and current)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
