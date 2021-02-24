@@ -36,7 +36,7 @@ experience:
     company_url: 'https://www.margaretkovera.com/research/'
     location: John Jay College of Criminal Justice
     date_start: '2019-12-01'
-    date_end: ''
+    date_end: ""
     description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
     
    - title: Project Director
