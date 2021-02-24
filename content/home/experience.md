@@ -28,22 +28,14 @@ experience:
     location: John Jay College of Criminal Justice
     date_start: '2019-05-01'
     date_end: ''
-    description: |2-
-       Directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. 
+    description: Directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. 
         
   - title: Research Assistant
     company: Kovera Legal Decision-Making and Witness Behavior Lab
     company_url: 'https://www.margaretkovera.com/research/'
     location: John Jay College of Criminal Justice
     date_start: '2019-12-01'
-    date_end: ""
-    description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
-    
-   - title: Project Director
-    company: West Interpersonal Perception Lab
-    company_url: 'https://www.margaretkovera.com/research/'
-    location: New York University
-    date_start: '2019-12-01'
     date_end: ''
     description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
+    
 ---
