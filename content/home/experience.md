@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle:
+title: Lab Affiliations
+subtitle:(past and current)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -26,9 +26,9 @@ experience:
     company: McWilliams Children and the Law Lab
     company_url: 'https://childlawlab.wixsite.com/website'
     location: John Jay College of Criminal Justice
-    date_start: '2019-05-01'
+    date_start: '2019'
     date_end: ''
-    description: Directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. 
+    description: Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. Click here to learn more. 
         
   - title: Research Assistant
     company: Kovera Legal Decision-Making and Witness Behavior Lab
