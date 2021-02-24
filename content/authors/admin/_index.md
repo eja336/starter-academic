@@ -65,8 +65,6 @@ email: ""
 highlight_name: true
 ---
 
-Eliana Aronson is a PhD Student in the Psychology & Law Training Program at John Jay College of Criminal Justice. Her research interests include eyewitness memory, eyewitness identifications, and child forensic interviewing. She currently works with both the McWilliams Child Law Lab and the Kovera Legal Decision-Making and Witness Behavior Lab. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Eliana Aronson is a PhD Student in the Psychology & Law Training Program at John Jay College of Criminal Justice. Her research interests include eyewitness memory, eyewitness identifications, and child forensic interviewing. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
