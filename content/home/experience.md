@@ -21,8 +21,10 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience: 
-- title: Research Assistant
+
+experience:
+
+  - title: Research Assistant
     company: Kovera Legal Decision-Making and Witness Behavior Lab
     company_url: 'https://www.margaretkovera.com/research/'
     location: John Jay College of Criminal Justice
@@ -36,7 +38,8 @@ experience:
     location: John Jay College of Criminal Justice
     date_start: '2019-06-01'
     date_end: ''
-    description: Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. Click here to learn more. 
+    description: `|2-`
+    Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. Click here to learn more. 
         
  
     
