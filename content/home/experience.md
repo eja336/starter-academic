@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Lab Manager
+    company: McWilliams Children and the Law Lab
+    company_url: 'https://childlawlab.wixsite.com/website'
+    location: John Jay College of Criminal Justice
+    date_start: '2019-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+       Directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults. 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Kovera Legal Decision-Making and Witness Behavior Lab
+    company_url: 'https://www.margaretkovera.com/research/'
+    location: John Jay College of Criminal Justice
+    date_start: '2019-12-01'
+    date_end: ''
+    description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
+    
+   - title: Project Director
+    company: West Interpersonal Perception Lab
+    company_url: 'https://www.margaretkovera.com/research/'
+    location: New York University
+    date_start: '2019-12-01'
+    date_end: ''
+    description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
 ---
