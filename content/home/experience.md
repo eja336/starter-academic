@@ -14,7 +14,7 @@ subtitle: (past and current)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -28,7 +28,7 @@ experience:
     company: Kovera Legal Decision-Making and Witness Behavior Lab
     company_url: 'https://www.margaretkovera.com/research/'
     location: John Jay College of Criminal Justice
-    date_start: '2019'
+    date_start: '2019-12-19'
     date_end: ''
     description: Recently assisted on a meta-analysis of trends in eyewitness identification research spanning the past forty years.
     
@@ -36,7 +36,7 @@ experience:
     company: McWilliams Children and the Law Lab
     company_url: 'https://childlawlab.wixsite.com/website'
     location: John Jay College of Criminal Justice
-    date_start: '2019'
+    date_start: '2019-12-19'
     date_end: ''
     description: Currently directing a research project exploring how anxiety-related attentional biases can distort children's memory for threatening interactions with adults.
         
